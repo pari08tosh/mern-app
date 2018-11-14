@@ -1,0 +1,5 @@
+{
+    "secret": "yoursecret",
+    "dbURI": "mongodb://localhost:27017/mern_app",
+    "port": 5000
+}
