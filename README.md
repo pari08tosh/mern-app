@@ -13,7 +13,3 @@ A MERN stack inventory app created as a template to quickstart development. Incl
 - Using React with Redux to maintain global auth states and manage views.
 - Using additional react plugins for routing and notification management.
 - Includes coustom HOC for protecting routes.
-
-
-Note:- Before building react, change the proxy in package.json as required. 
-
